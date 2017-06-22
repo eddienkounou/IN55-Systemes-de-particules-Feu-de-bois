@@ -1,0 +1,16 @@
+INPUT(
+./release\particle.o
+./release\qrc_shaders.o
+./release\fire.o
+./release\geometryengine.o
+./release\GlFramework.o
+./release\main.o
+./release\mainwidget.o
+./release\Object3D.o
+./release\objloader.o
+./release\particle.o
+./release\particleengine.o
+./release\particule.o
+./release\qrc_shaders.o
+./release\moc_mainwidget.o
+);

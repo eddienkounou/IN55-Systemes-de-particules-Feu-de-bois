@@ -1,0 +1,16 @@
+INPUT(
+./debug\particle.o
+./debug\qrc_shaders.o
+./debug\fire.o
+./debug\geometryengine.o
+./debug\GlFramework.o
+./debug\main.o
+./debug\mainwidget.o
+./debug\Object3D.o
+./debug\objloader.o
+./debug\particle.o
+./debug\particleengine.o
+./debug\particule.o
+./debug\qrc_shaders.o
+./debug\moc_mainwidget.o
+);
